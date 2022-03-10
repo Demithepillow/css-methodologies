@@ -1,0 +1,32 @@
+/*Your code goes here*/
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    opacity: 0.7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+}
+
+.btn-lcoral {
+    border-color: lightcoral;
+    background-color: coral;
+    color: #ffffff;
+}
+
+.btn-lcoral:hover {
+    color: #ffffff;
+}
+
+.font-size-08 {
+    font-size: 0.8rem;
+}
+
+.font-size-09 {
+    font-size: 0.9rem;
+}
